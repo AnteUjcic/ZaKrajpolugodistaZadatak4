@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadatk4", "zadatk4\zadatk4.csproj", "{27067EB5-40D5-4F9A-98FC-8B9A30043D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27067EB5-40D5-4F9A-98FC-8B9A30043D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27067EB5-40D5-4F9A-98FC-8B9A30043D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27067EB5-40D5-4F9A-98FC-8B9A30043D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27067EB5-40D5-4F9A-98FC-8B9A30043D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1D6970-7772-428C-B767-4CE0C1524187}
+	EndGlobalSection
+EndGlobal
